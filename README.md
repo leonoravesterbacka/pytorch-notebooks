@@ -1,2 +1,2 @@
 # pytorch-notebooks
-a first pytorch notebook where I play around with tensors for now
+some pytorch notebook where I play around with pytorch for fun
